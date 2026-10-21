@@ -18,6 +18,6 @@ More finance tools coming: portfolio risk analysis, AI annual report analysis, l
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/khan787/) · [khanft.com](https://khanft.com)
+[LinkedIn](https://www.linkedin.com/in/khan787/) · [khanft.com](https://khanft.com/en/)
 
 <sub>All tools are for educational purposes only. Not investment advice.</sub>

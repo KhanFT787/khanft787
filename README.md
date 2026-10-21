@@ -9,11 +9,11 @@ I build open-source tools that combine finance, Python, data and AI.
 
 ## What I'm building
 
-| Tool | What it does | Status |
-|------|--------------|--------|
-| Bangladesh Savings & Investment Comparator | Compare Sanchayapatra, FDR, DPS, T-bonds and mutual funds after tax and inflation | 🔨 In progress |
-| Portfolio Risk & Return Analyser | Returns, volatility, Sharpe, VaR/CVaR, drawdowns, efficient frontier | Planned |
-| AI Annual Report Analyst | Extract financials, ratios and red flags from annual reports, with page citations | Planned |
+| Tool | What it does | Links |
+|------|--------------|-------|
+| **Financial News Sentiment Dashboard** | Scores news headlines for 10 global stocks with FinBERT and tests how sentiment relates to market-adjusted returns. Updates daily. | [Live demo](https://news-sentiment-dashboard-787.streamlit.app/) · [Code](https://github.com/KhanFT787/news-sentiment-dashboard) |
+
+More finance tools coming: portfolio risk analysis, AI annual report analysis, liquidity metrics.
 
 ## Connect
 
